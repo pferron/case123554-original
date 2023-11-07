@@ -103,7 +103,7 @@
     "danger": "11.3.0",
     "eslint": "8.51.0",
     "eslint-plugin-import": "2.28.1",
-    "eslint-plugin-jest": "27.4.2",
+    "eslint-plugin-jest": "27.6.0",
     "eslint-plugin-mocha": "10.2.0",
     "eslint-plugin-promise": "6.1.1",
     "eslint-plugin-quick-sale": "file:./eslint_rules",
